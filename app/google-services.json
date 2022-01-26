@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872977569906",
+    "project_id": "covid-tracking-project-8a043",
+    "storage_bucket": "covid-tracking-project-8a043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872977569906:android:7ffc37784b10024389caeb",
+        "android_client_info": {
+          "package_name": "com.example.covidtrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872977569906-g11g3aurg4bpm4oulkkaj6fj8q8eb4t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covidtrackingapp",
+            "certificate_hash": "e81c9d976e71474afb215200dc0a344cb8f9ccce"
+          }
+        },
+        {
+          "client_id": "872977569906-6i9hab5f6dibfulhdfqiu0athsa4k8rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb4gaP3keQNUSE3b7J-1JRUQ4Wt86IGfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872977569906-6i9hab5f6dibfulhdfqiu0athsa4k8rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
